@@ -1,1 +1,1 @@
-In this document you learn basics about the packages in java.
+In this document you learn basics about how to handle packages in java.
